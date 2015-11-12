@@ -12,7 +12,7 @@ CLIENT_ID = '00000000-0000-0000-0000-000000000000'
 CLIENT_KEY = 'bGZ6sByzNWMTg7UmaJktcBFcR5XfnrRqB6ww43keoLv='
 # CRM URL
 RESOURCE_URI = 'https://org.crm.dynamics.com'
-# O365 used for authentication w/o login prompt
+# O365 credentials for authentication w/o login prompt
 USERNAME = 'administrator@org.onmicrosoft.com'
 PASSWORD = 'password'
 # Azure Directory OAUTH 2.0 AUTHORIZATION ENDPOINT
