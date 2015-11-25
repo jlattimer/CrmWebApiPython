@@ -4,8 +4,6 @@ import adal
 
 # https://github.com/AzureAD/azure-activedirectory-library-for-python
 
-# This was registered in Azure AD as a Native Client Application
-
 # CRM URL
 RESOURCE_URI = 'https://org.crm.dynamics.com'
 # O365 credentials for authentication w/o login prompt
